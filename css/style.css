@@ -1,0 +1,58 @@
+.container{
+      outline: 1px solid red;
+  width: 1056px;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+body{
+    background-color: grey;
+}
+
+.header{
+    padding-top: 39px;
+    padding-bottom: 39px;
+}
+
+
+.hero{
+    padding-top: 180px;
+    padding-bottom: 179px;
+}
+
+
+.quote{
+    padding-top: 75px;
+    padding-bottom: 10px;
+}
+
+
+.trailer{
+    padding-top: 330px;
+    padding-bottom: 331px;
+}
+
+
+.quote-two{
+    padding-top: 75px;
+    padding-bottom: 10px;
+}   
+
+
+.language{
+    padding-top: 58px;
+    padding-bottom: 57px;
+}
+
+.another-quote{
+        padding-top: 75px;
+    padding-bottom: 10px;
+}
+
+
+.footer{
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
